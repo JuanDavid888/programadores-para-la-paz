@@ -1,2 +1,2 @@
 # programadores-para-la-paz
-Primera semana.
+Actividades de los módulos propuestos
