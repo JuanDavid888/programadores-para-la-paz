@@ -1,0 +1,15 @@
+¿Qué información muestra cada comando?
+
+Comando: uname -a
+
+Resultado obtenido:
+MINGW64_NT-10.0-26200 JuanDavid 3.5.7-463ebcdc.x86_64 2025-03-03 17:26 UTC x86_64 Msys
+
+Comando: whoami
+
+Resultado obtenido:
+madon
+
+¿Por qué es útil conocer información del sistema cuando se administra un servido?
+
+Permite verificar el sistema operativo y el usuario con el que se están ejecutando las tareas. Esto facilita la administración del servidor, ayuda a evitar errores relacionados con permisos y permite realizar configuraciones de forma adecuada.

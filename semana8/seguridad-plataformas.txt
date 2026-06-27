@@ -1,0 +1,5 @@
+- Utilizar autenticación de dos factores para las cuentas de administración.
+-  Asignar permisos según las funciones de cada usuario.
+- Cifrar la información sensible almacenada y transmitida.
+- Supervisar la actividad de la plataforma mediante registros de acceso.
+- Capacitar a los usuarios sobre buenas prácticas de seguridad y prevención de fraudes.
