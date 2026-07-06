@@ -1,0 +1,9 @@
+- La interfaz tendría una sección principal donde los ciudadanos puedan consultar los reportes o situaciones comunitarias registradas.
+
+- También tendría un formulario para crear un nuevo reporte con campos como título, descripción, categoría y fecha.
+
+- Cada reporte tendría una opción para consultar su estado de seguimiento y conocer los avances realizados.
+
+- La plataforma incluiría botones para acciones permitidas según el usuario, como actualizar información o revisar reportes asignados.
+
+- La interfaz debe ser sencilla, organizada y no mostrar información privada de las personas que participan en la plataforma.

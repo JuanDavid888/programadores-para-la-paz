@@ -1,0 +1,41 @@
+Modelo básico de datos para una plataforma comunitaria de seguimiento ciudadano.
+
+Entidad: Reporte
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- categoria
+- fecha_creacion
+- estado
+
+Propósito:
+Registrar situaciones o problemas reportados por la comunidad y permitir realizar seguimiento a su estado.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre_usuario
+- correo
+- rol
+- fecha_registro
+
+Propósito:
+Identificar a las personas que utilizan la plataforma y controlar los permisos de acceso según su función.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- reporte_id
+- estado_anterior
+- estado_nuevo
+- fecha_cambio
+- usuario_responsable
+
+Propósito:
+Registrar los cambios realizados sobre los reportes para mantener trazabilidad y conocer qué usuario realizó cada actualización.
