@@ -1,0 +1,17 @@
+¿Qué 2 tareas del backlog harías primero?
+Las dos primeras tareas que realizaría del backlog serían:
+
+1. Crear el registro de incidencias ciudadanas.
+2. Crear un sistema básico para consultar y organizar los reportes.
+
+¿Por qué son las más importantes?
+Son las más importantes porque representan la base del proyecto. Si no existe una forma organizada de recibir y consultar información, las demás funciones como las notificaciones o los análisis no tendrían datos suficientes para funcionar.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, una tarea está "terminada" cuando cumple con los objetivos definidos y puede ser utilizada correctamente por las personas que la necesitan.
+
+Definición de terminado:
+
+- La funcionalidad funciona según lo esperado.
+- Fue probada y no presenta errores importantes.
+- Quedó documentada y registrada en el repositorio del proyecto.

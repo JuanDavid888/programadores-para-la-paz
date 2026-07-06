@@ -1,0 +1,11 @@
+Proyecto: Sistema comunitario para seguimiento de reportes ciudadanos.
+
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso y permitir que la comunidad pueda reportar situaciones que requieren atención.
+
+2. Como coordinador quiero consultar los reportes registrados para revisar avances, asignar seguimiento y conocer cuáles casos necesitan mayor prioridad.
+
+3. Como miembro del equipo quiero recibir una notificación automática cuando llegue un nuevo reporte para mejorar los tiempos de respuesta.
+
+4. Como ciudadano quiero consultar el estado general de los reportes para conocer si las situaciones reportadas están siendo atendidas.
+
+5. Como administrador quiero generar estadísticas básicas de los reportes para identificar problemas frecuentes en la comunidad.
