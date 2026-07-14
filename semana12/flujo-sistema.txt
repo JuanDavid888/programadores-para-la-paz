@@ -1,0 +1,11 @@
+Flujo de un sistema de seguimiento de causas y apoyos.
+
+1. Un líder o miembro de la comunidad entra a la plataforma y crea una causa explicando un problema del barrio (por ejemplo, falta de iluminación en una calle).
+
+2. La causa se guarda de forma segura en la base de datos de la plataforma y se le asigna una página con un enlace público.
+
+3. El enlace se comparte con los vecinos del sector para que entren y den su apoyo de manera rápida en solo unos clics.
+
+4. El sistema va sumando y registrando todos los apoyos recibidos, controlando que no se dupliquen y protegiendo la identidad de las personas.
+
+5. Una vez se alcanza una meta mínima de apoyos, el sistema une los datos de la causa y la cantidad de firmas para generar automáticamente un documento formal en formato PDF (un derecho de petición listo para descargar y presentar ante la entidad correspondiente).

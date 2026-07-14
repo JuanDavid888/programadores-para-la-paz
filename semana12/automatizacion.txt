@@ -1,0 +1,7 @@
+Automatización del sistema:
+
+- Evento que activa la automatización: El registro de un nuevo apoyo en una causa activa.
+
+- Mensaje que se envía por Telegram: "¡Un vecino más se ha sumado a la causa [Título de la Causa]! Ya somos [Número actual] apoyando esta iniciativa. ¡Comparte el enlace para seguir sumando!"
+
+- Información que NO debe enviarse por seguridad: No se deben enviar nombres completos, números de cédula, direcciones físicas de los firmantes, números de teléfono ni comentarios privados. El bot de Telegram solo debe reportar datos generales y estadísticas anónimas para proteger la privacidad de la comunidad.

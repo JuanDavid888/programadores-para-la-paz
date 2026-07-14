@@ -1,0 +1,18 @@
+Modelo básico de datos para una plataforma de seguimiento de causas y apoyos.
+
+Entidad: Causa
+- id (Identificador único de la petición)
+- titulo (Nombre o resumen de la problemática)
+- descripcion (Detalle de la solicitud que se hace a las autoridades)
+- fecha (Día y hora de creación de la causa)
+
+Entidad: Apoyo
+- id (Identificador único del voto de apoyo)
+- causa_id (Relación que conecta este apoyo con una causa específica)
+- nombre (Nombre del ciudadano que apoya, sin recopilar datos de contacto íntimos)
+- fecha (Día y hora en que se registró el apoyo)
+
+¿Para qué sirve cada entidad?
+- La entidad "Causa" sirve para almacenar toda la información del problema o la petición que la comunidad quiere resolver. Es el documento base de la iniciativa.
+
+- La entidad "Apoyo" sirve para registrar y contar de manera ordenada cuántas personas respaldan esa causa en específico, asegurando que se pueda demostrar el peso comunitario de la solicitud.
